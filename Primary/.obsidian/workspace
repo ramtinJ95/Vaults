@@ -1,0 +1,96 @@
+{
+  "main": {
+    "id": "742cf428ce22d634",
+    "type": "split",
+    "children": [
+      {
+        "id": "7a03a3952b05747b",
+        "type": "leaf",
+        "active": true,
+        "state": {
+          "type": "empty",
+          "state": {}
+        }
+      }
+    ],
+    "direction": "vertical"
+  },
+  "left": {
+    "id": "07ecd3e5ff13570c",
+    "type": "split",
+    "children": [
+      {
+        "id": "3390041d5efb4b17",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "7d4232e6fbd5a891",
+            "type": "leaf",
+            "state": {
+              "type": "file-explorer",
+              "state": {}
+            }
+          },
+          {
+            "id": "1c9441363ac7b89d",
+            "type": "leaf",
+            "state": {
+              "type": "search",
+              "state": {
+                "query": "",
+                "matchingCase": false,
+                "explainSearch": false,
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical"
+              }
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300
+  },
+  "right": {
+    "id": "3e1c32f429061b12",
+    "type": "split",
+    "children": [
+      {
+        "id": "41d7745d2c668a49",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "f1be8b30a185725e",
+            "type": "leaf",
+            "state": {
+              "type": "backlink",
+              "state": {
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical",
+                "backlinkCollapsed": false,
+                "unlinkedCollapsed": true
+              }
+            }
+          },
+          {
+            "id": "65c5b8713dba07c5",
+            "type": "leaf",
+            "state": {
+              "type": "tag",
+              "state": {
+                "sortOrder": "frequency",
+                "useHierarchy": true
+              }
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300,
+    "collapsed": true
+  },
+  "lastOpenFiles": []
+}
