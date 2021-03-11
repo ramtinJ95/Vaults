@@ -1,0 +1,1 @@
+This is just a note to test out the auto sync script i wrote earlier.

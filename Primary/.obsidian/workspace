@@ -8,8 +8,11 @@
         "type": "leaf",
         "active": true,
         "state": {
-          "type": "empty",
-          "state": {}
+          "type": "markdown",
+          "state": {
+            "file": "Markdown cheat sheet.md",
+            "mode": "source"
+          }
         }
       }
     ],
@@ -66,6 +69,7 @@
             "state": {
               "type": "backlink",
               "state": {
+                "file": "Markdown cheat sheet.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -92,5 +96,8 @@
     "width": 300,
     "collapsed": true
   },
-  "lastOpenFiles": []
+  "lastOpenFiles": [
+    "Untitled.md",
+    "My vault.md"
+  ]
 }
