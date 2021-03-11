@@ -38,7 +38,7 @@ fi
 # then exit with no error code `exit 0` if there are changes,
 # then continue on with the script
 
-git add .; git commit -q -m “$(date +”%Y-%m-%d %H:%M:%S”)”; git push -q
+git add .; git commit -q -m “$(date +”%Y-%m-%d_%H:%M:%S”)”; git push -q
 
 # git add. = add all current changes in the repo no matter the
 # level of nested folders/files
