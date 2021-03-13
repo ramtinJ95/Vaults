@@ -1,1 +1,0 @@
-Now i think i finally got the auto sync to work! cmon now
