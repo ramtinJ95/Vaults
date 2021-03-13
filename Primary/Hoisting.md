@@ -11,5 +11,5 @@ Its important to know that JS only hoists declarations not initializations.
 
 
 ---
-status: #🌱 
-Tags: [[Programming]]-[[Javascript]]
+Status: #🌱 
+Tags: [[Programming]]-[[Javascript MOC]]

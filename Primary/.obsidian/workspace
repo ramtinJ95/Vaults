@@ -10,7 +10,7 @@
         "state": {
           "type": "markdown",
           "state": {
-            "file": "INDEX.md",
+            "file": "Hoisting.md",
             "mode": "source"
           }
         }
@@ -69,7 +69,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "INDEX.md",
+                "file": "Hoisting.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -97,15 +97,15 @@
     "collapsed": true
   },
   "lastOpenFiles": [
-    "INDEX.md",
-    "Javascript.md",
     "Hoisting.md",
-    "Markdown cheat sheet.md",
-    "Start Here.md",
-    "Untitled.md",
+    "Javascript.md",
+    "050 Machine Learning.md",
+    "040 Science.md",
     "030 Software Development.md",
+    "020 Family Life.md",
     "010 Productivity.md",
     "Focus MOC.md",
-    "just testing new auto script.md"
+    "Markdown cheat sheet.md",
+    "Machine Learning.md"
   ]
 }
