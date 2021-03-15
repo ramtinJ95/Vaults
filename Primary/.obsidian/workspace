@@ -10,7 +10,7 @@
         "state": {
           "type": "markdown",
           "state": {
-            "file": "Hoisting.md",
+            "file": "Typescript basics.md",
             "mode": "source"
           }
         }
@@ -53,7 +53,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 300
+    "width": 198.5
   },
   "right": {
     "id": "3e1c32f429061b12",
@@ -69,7 +69,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Hoisting.md",
+                "file": "Typescript basics.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -97,15 +97,15 @@
     "collapsed": true
   },
   "lastOpenFiles": [
-    "Hoisting.md",
-    "Javascript.md",
-    "050 Machine Learning.md",
-    "040 Science.md",
-    "030 Software Development.md",
-    "020 Family Life.md",
-    "010 Productivity.md",
-    "Focus MOC.md",
+    "Typescript basics.md",
+    "TODO.md",
     "Markdown cheat sheet.md",
-    "Machine Learning.md"
+    "Javascript MOC.md",
+    "templates/Standard note.md",
+    "010 Productivity.md",
+    "020 Family Life.md",
+    "templates/Untitled.md",
+    "Untitled.md",
+    "Hoisting.md"
   ]
 }

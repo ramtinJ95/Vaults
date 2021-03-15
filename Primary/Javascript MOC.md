@@ -1,13 +1,6 @@
 # Javascript MOC
 [[Hoisting]]
-
-
-
-
-
-
-
-
+[[Typescript basics]]
 
 
 
