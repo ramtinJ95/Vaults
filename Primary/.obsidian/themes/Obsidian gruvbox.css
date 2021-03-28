@@ -478,3 +478,6 @@ input.task-list-item-checkbox:checked
     fill: var(--dark3) !important;
 }
 
+.MJX-TEX {
+    font-size: 180%;
+}

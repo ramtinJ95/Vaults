@@ -111,7 +111,7 @@ const user = new User("Ramtin", 25)
 ```
 
 ### Generics && Enums 
-[[TODO]]
+[[090 TODO]]
 
 ---
 Status: #🌱 

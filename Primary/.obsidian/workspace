@@ -4,14 +4,14 @@
     "type": "split",
     "children": [
       {
-        "id": "7a03a3952b05747b",
+        "id": "11b1c4e66eeb99af",
         "type": "leaf",
         "active": true,
         "state": {
           "type": "markdown",
           "state": {
-            "file": "Typescript basics.md",
-            "mode": "source"
+            "file": "Markov Chains.md",
+            "mode": "preview"
           }
         }
       }
@@ -69,7 +69,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Typescript basics.md",
+                "file": "Markov Chains.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -97,15 +97,15 @@
     "collapsed": true
   },
   "lastOpenFiles": [
-    "Typescript basics.md",
-    "TODO.md",
+    "Markov Chains.md",
+    "Reinforcment learning.md",
+    "Python MOC.md",
     "Markdown cheat sheet.md",
     "Javascript MOC.md",
+    "030 Software Development.md",
+    "050 Machine Learning.md",
+    "040 Science.md",
     "templates/Standard note.md",
-    "010 Productivity.md",
-    "020 Family Life.md",
-    "templates/Untitled.md",
-    "Untitled.md",
-    "Hoisting.md"
+    "Typescript basics.md"
   ]
 }
