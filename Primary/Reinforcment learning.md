@@ -10,6 +10,8 @@
 ---
 Status: #🌱 #
 tags: [[050 Machine Learning]]
-date:{{date}}
+date:2021-03-29
+
+
 
 

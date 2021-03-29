@@ -4,4 +4,5 @@
 ---
 Status: #🗺 
 tags:[[030 Software Development]]
-date: {date}
+date:2021-03-29
+

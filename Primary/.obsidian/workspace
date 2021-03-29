@@ -4,13 +4,24 @@
     "type": "split",
     "children": [
       {
-        "id": "11b1c4e66eeb99af",
+        "id": "e6e1b096f572e183",
+        "type": "leaf",
+        "state": {
+          "type": "markdown",
+          "state": {
+            "file": "Markov Decision Processes.md",
+            "mode": "source"
+          }
+        }
+      },
+      {
+        "id": "a72e9276bb9001b7",
         "type": "leaf",
         "active": true,
         "state": {
           "type": "markdown",
           "state": {
-            "file": "Markov Chains.md",
+            "file": "Markov Decision Processes.md",
             "mode": "preview"
           }
         }
@@ -53,7 +64,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 198.5
+    "width": 327
   },
   "right": {
     "id": "3e1c32f429061b12",
@@ -69,7 +80,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Markov Chains.md",
+                "file": "Markov Decision Processes.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -97,15 +108,15 @@
     "collapsed": true
   },
   "lastOpenFiles": [
+    "Markov Decision Processes.md",
     "Markov Chains.md",
-    "Reinforcment learning.md",
     "Python MOC.md",
-    "Markdown cheat sheet.md",
+    "Reinforcment learning.md",
+    "Typescript basics.md",
+    "Hoisting.md",
     "Javascript MOC.md",
-    "030 Software Development.md",
-    "050 Machine Learning.md",
-    "040 Science.md",
-    "templates/Standard note.md",
-    "Typescript basics.md"
+    "Markdown cheat sheet.md",
+    "finite time horizon MDP's.md",
+    "discounted infinite time horizon MDP's.md"
   ]
 }
