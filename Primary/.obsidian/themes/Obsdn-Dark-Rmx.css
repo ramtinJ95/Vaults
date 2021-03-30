@@ -403,7 +403,7 @@ svg.link {
 .nav-folder.mod-root > .nav-folder-title {
   padding-left: 6px;
   font-size: 14px;
-  font-weight: bolder;
+  font-weight: bolder ;
   top: -6px; /* higher */
   cursor: default;
 }
