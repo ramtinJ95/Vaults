@@ -1,0 +1,7 @@
+-  [[So good they cant ignore you by cal newport]]
+-  [[Deep work by cal newport]]
+-  [[Digital minimalism by cal newport]]
+-  [[Zero to one by peter thiel]]
+-  [[The innovator dilemma by Clayton M. christensen]]
+-  [[The lean startup by eric ries]]
+-  [[crossing the chasm by geoffrey A. moore]]

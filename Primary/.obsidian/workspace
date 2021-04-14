@@ -6,23 +6,11 @@
       {
         "id": "202932bb38bb6972",
         "type": "leaf",
-        "active": true,
         "state": {
           "type": "markdown",
           "state": {
-            "file": "finite time horizon MDP's.md",
+            "file": "Business Ideas.md",
             "mode": "source"
-          }
-        }
-      },
-      {
-        "id": "7a6affa775368da5",
-        "type": "leaf",
-        "state": {
-          "type": "markdown",
-          "state": {
-            "file": "finite time horizon MDP's.md",
-            "mode": "preview"
           }
         }
       }
@@ -80,10 +68,12 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "finite time horizon MDP's.md",
+                "file": "Business Ideas.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
+                "showSearch": false,
+                "searchQuery": "",
                 "backlinkCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -107,16 +97,17 @@
     "width": 300,
     "collapsed": true
   },
+  "active": "202932bb38bb6972",
   "lastOpenFiles": [
-    "finite time horizon MDP's.md",
-    "Markov Decision Processes.md",
-    "discounted infinite time horizon MDP's.md",
-    "Focus MOC.md",
-    "Markov Chains.md",
-    "Python MOC.md",
-    "Reinforcment learning.md",
-    "Typescript basics.md",
-    "Hoisting.md",
-    "Javascript MOC.md"
+    "Business Ideas.md",
+    "000 Index.md",
+    "Book to read.md",
+    "Books I have read.md",
+    "templates/Book Summary.md",
+    "templates/Standard note.md",
+    "The unfair advantage by Ash ali.md",
+    "Show your work by Austin Kleon.md",
+    "070 Content Creation.md",
+    "Reinforcment learning.md"
   ]
 }
