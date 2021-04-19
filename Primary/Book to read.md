@@ -13,6 +13,13 @@
 -  [[The Psychology of Money by morgan housel]]
 -  [[Atomic Habits by James Clear]]
 -  [[ MASTERY by Robert Greene]]
+-  [[The black swan by Taleb]]
+-  [[Antifragile by taleb]]
+-  [[Fooled by randomness by taleb]]
+-  [[Hidden asymmetries in daily life by taleb]]
+-  [[The bed of procrustes by taleb]]
+-  [[Maps of meaning jordan peterson]]
+-  [[human action mesis ludwig]]
 
 ### Investing
 - [[The Little Book that Beats the Market]]

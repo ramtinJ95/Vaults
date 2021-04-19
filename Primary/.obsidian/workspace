@@ -9,7 +9,7 @@
         "state": {
           "type": "markdown",
           "state": {
-            "file": "Anki.md",
+            "file": "Book to read.md",
             "mode": "source"
           }
         }
@@ -68,7 +68,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Anki.md",
+                "file": "Book to read.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -99,10 +99,10 @@
   },
   "active": "202932bb38bb6972",
   "lastOpenFiles": [
+    "Book to read.md",
+    "Books I have read.md",
     "Anki.md",
     "010 Productivity.md",
-    "Books I have read.md",
-    "Book to read.md",
     "Business Ideas.md",
     "000 Index.md",
     "Papers I Have Read.md",
