@@ -4,7 +4,7 @@
 -  [[The innovator dilemma by Clayton M. christensen]]
 -  [[The lean startup by eric ries]]
 -  [[crossing the chasm by geoffrey A. moore]]
--  [[How to take smart notes by Sönke Ahrens]] currently reading
+-  [[How to take smart notes by Sönke Ahrens]] **currently reading**
 -  [[The e-myth revisited by Micheal E.Gerber]]
 -  [[The 4 hour work week by tim ferriss]]
 -  [[The Motivation Hacker by Nick Winter]]

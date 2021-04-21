@@ -2,7 +2,7 @@
 For these examples with Markov decision process's which are [[finite time horizon MDP's]] or [[discounted infinite time horizon MDP's]] we are simply solving for the value function or learning the optimal policy, in other words there is no learning going on here since we are given all the system dynamics.
 
 
-A note on notation: When we see E before a formula that means that we are taking the average of that sum or what ever it is. But for reinforcement learning it is usually the case that we take the average of the sum. 
+A note on notation: When we see E before a formula that means that we are taking the average of that sum or what ever it is. But for reinforcement learning it is usually the case that we take the average of the sum.  ^f4016c
 
 ### MDP's
 - Fully observable state and reward
