@@ -9,7 +9,7 @@
         "state": {
           "type": "markdown",
           "state": {
-            "file": "Reading with Zettelkasten.md",
+            "file": "Rules for Designing Precise Anki  Cards.md",
             "mode": "source"
           }
         }
@@ -52,8 +52,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 332.0036334991455,
-    "collapsed": true
+    "width": 332.0036334991455
   },
   "right": {
     "id": "3e1c32f429061b12",
@@ -69,7 +68,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Reading with Zettelkasten.md",
+                "file": "Rules for Designing Precise Anki  Cards.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -100,15 +99,15 @@
   },
   "active": "caea3e033a1aca67",
   "lastOpenFiles": [
-    "Reading with Zettelkasten.md",
-    "010 Productivity.md",
-    "Using Anki.md",
+    "Rules for Designing Precise Anki  Cards.md",
     "Anki.md",
-    "060 Business.md",
+    "Book to read.md",
+    "Using Spaced Revision Systems.md",
+    "Reading with Zettelkasten.md",
     "Formulating Knowledge for spaced repetition.md",
     "Drilling down Speed up learning.md",
-    "000 Index.md",
-    "Books I have read.md",
-    "020 Family Life.md"
+    "010 Productivity.md",
+    "Using Anki.md",
+    "templates/Standard note.md"
   ]
 }

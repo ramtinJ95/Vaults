@@ -18,6 +18,7 @@
 ## Tips and tricks
 - Take notes from lectures/youtube then make flashcards out of these notes. 
 - [[Formulating Knowledge for spaced repetition]]
+- [[Rules for Designing Precise Anki  Cards]]
 ## Addons
 - Image occlusion addon. This addons lets you hide certain areas of a picture, so that it works like the cloze deletion card type but for images.  ^b68c12
 - Obsidian addon exists.

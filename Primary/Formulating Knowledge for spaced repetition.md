@@ -4,7 +4,7 @@
 
 2. Do not try and memorize loosely connected facts. Read the entire chapter then start making questions for yourself either from your notes or from the stuff you want to remember from that chapter. AFTER you have an understanding of how some of the stuff are connected 
 
-3. Memorize the basics. Don this that oh this is so basic I will remember it etc, because if that is the case then you wont be spending that much time on it anyway, but if you forget some of the basics then it will really cost you.
+3. Memorize the basics. Dont do this that oh this is so basic I will remember it etc, because if that is the case then you wont be spending that much time on it anyway, but if you forget some of the basics then it will really cost you.
 
 4. We want to stick to the atomic information principle. Which means that one flashcard for one thing. Two important principles are: A) simple is easy. B) Repetitions of simple items are easier to schedule. Below is a good example of these to principles ![[Screenshot 2021-04-21 at 16.30.58.png]]
 
