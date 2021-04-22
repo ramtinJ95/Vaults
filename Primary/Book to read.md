@@ -19,6 +19,7 @@
 -  [[The bed of procrustes by taleb]]
 -  [[Maps of meaning jordan peterson]]
 -  [[human action mesis ludwig]]
+-  [[Outwitting the devil by Napoleon Hill]]
 
 ### Investing
 - [[The Little Book that Beats the Market]]

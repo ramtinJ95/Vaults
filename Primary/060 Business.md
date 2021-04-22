@@ -1,6 +1,7 @@
 # Business
 
-
+## Ideas
+[[Business Ideas]]
 
 ## Maps of Content
 
