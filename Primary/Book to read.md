@@ -4,14 +4,13 @@
 -  [[The innovator dilemma by Clayton M. christensen]]
 -  [[The lean startup by eric ries]]
 -  [[crossing the chasm by geoffrey A. moore]]
--  [[How to take smart notes by Sönke Ahrens]] **currently reading**
 -  [[The e-myth revisited by Micheal E.Gerber]]
 -  [[The 4 hour work week by tim ferriss]]
 -  [[The Motivation Hacker by Nick Winter]]
 -  [[Pragmatic Thinking and Learning by Andy Hunt]]
 -  [[Thinking Fast and Slow by Daniel Kahneman]]
 -  [[The Psychology of Money by morgan housel]]
--  [[Atomic Habits by James Clear]]
+-  [[Atomic Habits by James Clear]] **currently reading**
 -  [[ MASTERY by Robert Greene]]
 -  [[The black swan by Taleb]]
 -  [[Antifragile by taleb]]
