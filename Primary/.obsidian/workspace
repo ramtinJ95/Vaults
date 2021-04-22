@@ -9,7 +9,7 @@
         "state": {
           "type": "markdown",
           "state": {
-            "file": "Rules for Designing Precise Anki  Cards.md",
+            "file": "Using Spaced Revision Systems.md",
             "mode": "source"
           }
         }
@@ -68,7 +68,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Rules for Designing Precise Anki  Cards.md",
+                "file": "Using Spaced Revision Systems.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -99,15 +99,15 @@
   },
   "active": "caea3e033a1aca67",
   "lastOpenFiles": [
-    "Rules for Designing Precise Anki  Cards.md",
-    "Anki.md",
-    "Book to read.md",
     "Using Spaced Revision Systems.md",
     "Reading with Zettelkasten.md",
     "Formulating Knowledge for spaced repetition.md",
-    "Drilling down Speed up learning.md",
     "010 Productivity.md",
-    "Using Anki.md",
-    "templates/Standard note.md"
+    "Anki.md",
+    "Book to read.md",
+    "Rules for Designing Precise Anki Cards.md",
+    "Show your work by Austin Kleon.md",
+    "So good they cant ignore you by cal newport.md",
+    "SRS For Reading Papers and Technical Literature.md"
   ]
 }

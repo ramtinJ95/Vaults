@@ -20,9 +20,10 @@
 9. Some redundancy in the cards is actually beneficial since it allow for different angles to the same facts. Also it can be good to have the answers to some questions as a card but at the same time have the card ask for the solution or process of ending up with that answer as a card to, so that we know where we are going fast and then also how we get there. For math it is even good to just straight up memorize some derivation steps too speed up calculations or even more importantly reasoning.
 
 
-Source: https://www.supermemo.com/en/archives1990-2015/articles/20rules 
+### Source
+https://www.supermemo.com/en/archives1990-2015/articles/20rules 
 
 ---
 Status: #🏛 
-tags: [[010 Productivity]]
+tags: [[010 Productivity]] - [[SRS]] - [[Memory]]
 date:2021-04-21

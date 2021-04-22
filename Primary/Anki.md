@@ -1,9 +1,5 @@
 # Anki
 
-## Key ideas
-- Its important to create the card in such a way that they can be used by our future self in say 3-6 months because the goal here is to upload whatever the information is on the cards into our brains for ever so that we become better version of ourselves. 
-- trap with flashcards is that we become to focused on memorizing stuff. We should first understand it first then after that for each card there should be more context, so the use of the extra feature or the close deletion type is very useful for this.
-
 ## keyboard commands
 - A to add a new card to a deck
 - spacebar to reaveal answer
@@ -18,7 +14,12 @@
 ## Tips and tricks
 - Take notes from lectures/youtube then make flashcards out of these notes. 
 - [[Formulating Knowledge for spaced repetition]]
-- [[Rules for Designing Precise Anki  Cards]]
+- [[Rules for Designing Precise Anki Cards]]
+- [[SRS For Reading Papers and Technical Literature]]
+- [[SRS For Learning a New API]]
+- [[Using Spaced Revision Systems]]
+
+
 ## Addons
 - Image occlusion addon. This addons lets you hide certain areas of a picture, so that it works like the cloze deletion card type but for images.  ^b68c12
 - Obsidian addon exists.

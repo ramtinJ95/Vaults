@@ -12,19 +12,13 @@ Do not allow multiple interperations of a question. Always add context in the qu
 
 Questions should not be build around a particular source ever. 
 
+Adding different variants off the same question: [[Using Spaced Revision Systems#^cff067]]
 
-## Case study
-
-
-
+Do not allow for yes and no questions, if such cards are found then they need to be refactored. 
 
 
 ### Source
 https://controlaltbackspace.org/memory/designing-precise-cards/
-
-case study http://augmentingcognition.com/ltm.html
-
-
 
 
 ---

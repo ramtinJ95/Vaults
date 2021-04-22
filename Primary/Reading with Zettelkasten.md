@@ -36,5 +36,5 @@ Again just to really drive the point home here, it is very very very important t
 
 ---
 Status: #🏛 
-tags: [[010 Productivity]]
+tags: [[010 Productivity]] - [[Reading]] 
 date:2021-04-21

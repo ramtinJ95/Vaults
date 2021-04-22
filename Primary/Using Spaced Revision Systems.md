@@ -3,3 +3,17 @@
 
 There is a few different types of knowledge. There is factual knowledge, procedural knowledge and conceptual knowledge. This guide will go through how to use space revision for all of these types.
 
+## Procedural and Factual knowledge
+
+
+
+
+
+
+### Source
+https://andymatuschak.org/prompts/
+
+---
+Status: #🏛 
+tags: [[010 Productivity]] - [[Anki]] - [[SRS]]
+date:2021-04-22
