@@ -56,7 +56,7 @@ It is not only the final product that is interesting, humans wants to connect an
 - You dont really find an audience for your work; they find you. But it's not enough to be good. In order to be found you have to be findable. 
 
 ### Impressions
-
+The book is very well written and there was no fluff at all. This lack of fluff made it a very quick read. Even though it was a quick read i must say that the consequence of this book and the impact it has and will continue to have on my thinking and my life will be disportionatly large. Its quite impressive how the author managed to cram so much knowledge and actionable advice in so little text, a standard that I and anyone who wants to write should aim for. 
 
 ### How I Discovered It
 I came in contact with the book through a youtuber "Ali abdaal" who is a medical doctor and a productivity youtuber.
