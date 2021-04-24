@@ -1,21 +1,23 @@
 # Show your work
 
-### The book in 3 sentences
+### The Book In 3 Sentences
+## Summary and notes (this is for very good books that i really want to remember)
 
 ### Impressions
 
-#### How i discoverd it
+### How I Discovered It
 
-#### who should read it
+### Who Should Read It
 
 
-## How the book changed me
+## How The Book Changed Me
 
 ## My Top 3 Quotes
 
 
 
+
 ---
-Status:
+Status: #🏛 
 tags: [[070 Content Creation]]
-date:2021-04-14
+date:2021-04-24

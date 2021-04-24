@@ -7,11 +7,8 @@
         "id": "caea3e033a1aca67",
         "type": "leaf",
         "state": {
-          "type": "markdown",
-          "state": {
-            "file": "How to take smart notes by Sönke Ahrens.md",
-            "mode": "source"
-          }
+          "type": "graph",
+          "state": {}
         }
       }
     ],
@@ -68,7 +65,6 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "How to take smart notes by Sönke Ahrens.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -99,15 +95,15 @@
   },
   "active": "caea3e033a1aca67",
   "lastOpenFiles": [
+    "Show your work by Austin Kleon.md",
+    "070 Content Creation.md",
+    "templates/Book Summary.md",
     "How to take smart notes by Sönke Ahrens.md",
+    "Books I have read.md",
+    "010 Productivity.md",
+    "Papers To Read.md",
     "Book reviews.md",
     "050 Machine Learning.md",
-    "070 Content Creation.md",
-    "060 Business.md",
-    "Business Ideas.md",
-    "templates/Book Summary.md",
-    "Book to read.md",
-    "Untitled.md",
-    "Books I have read.md"
+    "060 Business.md"
   ]
 }

@@ -3,3 +3,8 @@
  - [[The unfair advantage by Ash ali]] 2021-04-13
  - [[So good they cant ignore you by cal newport]] 2021-04-18
  - [[How to take smart notes by Sönke Ahrens]] 2021-04-22
+
+
+---
+tags: #🏛 
+links: 
