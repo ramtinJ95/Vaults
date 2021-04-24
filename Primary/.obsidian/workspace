@@ -7,8 +7,11 @@
         "id": "caea3e033a1aca67",
         "type": "leaf",
         "state": {
-          "type": "graph",
-          "state": {}
+          "type": "markdown",
+          "state": {
+            "file": "Show your work by Austin Kleon.md",
+            "mode": "source"
+          }
         }
       }
     ],
@@ -65,6 +68,7 @@
             "state": {
               "type": "backlink",
               "state": {
+                "file": "Show your work by Austin Kleon.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -96,10 +100,10 @@
   "active": "caea3e033a1aca67",
   "lastOpenFiles": [
     "Show your work by Austin Kleon.md",
-    "070 Content Creation.md",
-    "templates/Book Summary.md",
-    "How to take smart notes by Sönke Ahrens.md",
     "Books I have read.md",
+    "templates/Book Summary.md",
+    "070 Content Creation.md",
+    "How to take smart notes by Sönke Ahrens.md",
     "010 Productivity.md",
     "Papers To Read.md",
     "Book reviews.md",
