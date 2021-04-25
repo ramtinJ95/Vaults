@@ -17,7 +17,7 @@
 
 8. We want simple wording, i.e we dont want to be writing to many words in our questions so that we dont lose specificity of the thing we are trying to memorise. To help with this its smart to give the context, tex what is memory refering to in CS, instead of having what is memory and the answer being RAM.
 
-9. Some redundancy in the cards is actually beneficial since it allow for different angles to the same facts. Also it can be good to have the answers to some questions as a card but at the same time have the card ask for the solution or process of ending up with that answer as a card to, so that we know where we are going fast and then also how we get there. For math it is even good to just straight up memorize some derivation steps too speed up calculations or even more importantly reasoning.
+9. Some redundancy in the cards is actually beneficial since it allow for different angles to the same facts. Also it can be good to have the answers to some questions as a card but at the same time have the card ask for the solution or process of ending up with that answer as a card too, so that we know where we are going fast and then also how we get there. For math it is even good to just straight up memorize some derivation steps too speed up calculations or even more importantly reasoning.
 
 
 ### Source

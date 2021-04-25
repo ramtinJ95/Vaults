@@ -9,8 +9,8 @@
         "state": {
           "type": "markdown",
           "state": {
-            "file": "Show your work by Austin Kleon.md",
-            "mode": "source"
+            "file": "Business Ideas.md",
+            "mode": "preview"
           }
         }
       }
@@ -39,7 +39,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "",
+                "query": "tag:#🏛",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -68,7 +68,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Show your work by Austin Kleon.md",
+                "file": "Business Ideas.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -99,15 +99,15 @@
   },
   "active": "caea3e033a1aca67",
   "lastOpenFiles": [
+    "Business Ideas.md",
+    "Using Spaced Revision Systems.md",
+    "Anki.md",
+    "SRS For Reading Papers and Technical Literature.md",
+    "Rules for Designing Precise Anki Cards.md",
+    "Formulating Knowledge for spaced repetition.md",
     "Show your work by Austin Kleon.md",
     "Books I have read.md",
     "templates/Book Summary.md",
-    "070 Content Creation.md",
-    "How to take smart notes by Sönke Ahrens.md",
-    "010 Productivity.md",
-    "Papers To Read.md",
-    "Book reviews.md",
-    "050 Machine Learning.md",
-    "060 Business.md"
+    "070 Content Creation.md"
   ]
 }
