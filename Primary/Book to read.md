@@ -9,8 +9,6 @@
 -  [[The Motivation Hacker by Nick Winter]]
 -  [[Pragmatic Thinking and Learning by Andy Hunt]]
 -  [[Thinking Fast and Slow by Daniel Kahneman]]
--  [[The Psychology of Money by morgan housel]]
--  [[Atomic Habits by James Clear]] **currently reading**
 -  [[ MASTERY by Robert Greene]]
 -  [[The black swan by Taleb]]
 -  [[Antifragile by taleb]]
@@ -20,6 +18,7 @@
 -  [[Maps of meaning jordan peterson]]
 -  [[human action mesis ludwig]]
 -  [[Outwitting the devil by Napoleon Hill]]
+-  [[On Writing Well - by William Zinsser]]  **currently reading**
 
 ### Investing
 - [[The Little Book that Beats the Market]]

@@ -78,6 +78,6 @@ Even though i was already thinking about sharing my work, the way it is describe
 
 
 ---
-Status: #🏛 
+Status: #🏛 #📖 
 tags: [[070 Content Creation]]
 date:2021-04-24

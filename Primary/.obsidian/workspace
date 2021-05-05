@@ -9,8 +9,8 @@
         "state": {
           "type": "markdown",
           "state": {
-            "file": "Business Ideas.md",
-            "mode": "preview"
+            "file": "Books I have read.md",
+            "mode": "source"
           }
         }
       }
@@ -39,7 +39,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "tag:#🏛",
+                "query": "tag:#📖",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -68,7 +68,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Business Ideas.md",
+                "file": "Books I have read.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -99,15 +99,15 @@
   },
   "active": "caea3e033a1aca67",
   "lastOpenFiles": [
-    "Business Ideas.md",
-    "Using Spaced Revision Systems.md",
-    "Anki.md",
-    "SRS For Reading Papers and Technical Literature.md",
-    "Rules for Designing Precise Anki Cards.md",
-    "Formulating Knowledge for spaced repetition.md",
-    "Show your work by Austin Kleon.md",
     "Books I have read.md",
-    "templates/Book Summary.md",
-    "070 Content Creation.md"
+    "Book to read.md",
+    "Business Ideas.md",
+    "060 Business.md",
+    "Book reviews.md",
+    "Papers To Read.md",
+    "Papers I Have Read.md",
+    "Show your work by Austin Kleon.md",
+    "The unfair advantage by Ash ali.md",
+    "000 Index.md"
   ]
 }
