@@ -18,7 +18,11 @@
 -  [[Maps of meaning jordan peterson]]
 -  [[human action mesis ludwig]]
 -  [[Outwitting the devil by Napoleon Hill]]
--  [[On Writing Well - by William Zinsser]]  **currently reading**
+-  [[On Writing Well by William Zinsser]]  **currently reading**
+-  [[A Guide to the Good Life: The Ancient Art of Stoic Joy by William Irvine]]
+-  [[This Is Marketing by Seth Godin]]
+-  [[Ego Is the Enemy by Ryan Holiday]] 
+-  [[The Personal MBA by Josh Kaufman]]
 
 ### Investing
 - [[The Little Book that Beats the Market]]

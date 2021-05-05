@@ -9,7 +9,7 @@
         "state": {
           "type": "markdown",
           "state": {
-            "file": "Books I have read.md",
+            "file": "Book to read.md",
             "mode": "source"
           }
         }
@@ -68,7 +68,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Books I have read.md",
+                "file": "Book to read.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -99,8 +99,8 @@
   },
   "active": "caea3e033a1aca67",
   "lastOpenFiles": [
-    "Books I have read.md",
     "Book to read.md",
+    "Books I have read.md",
     "Business Ideas.md",
     "060 Business.md",
     "Book reviews.md",
