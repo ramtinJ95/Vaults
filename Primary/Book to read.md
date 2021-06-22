@@ -18,11 +18,16 @@
 -  [[Maps of meaning jordan peterson]]
 -  [[human action mesis ludwig]]
 -  [[Outwitting the devil by Napoleon Hill]]
--  [[On Writing Well by William Zinsser]]  **currently reading**
+-  [[On Writing Well by William Zinsser]] 
 -  [[A Guide to the Good Life: The Ancient Art of Stoic Joy by William Irvine]]
 -  [[This Is Marketing by Seth Godin]]
 -  [[Ego Is the Enemy by Ryan Holiday]] 
 -  [[The Personal MBA by Josh Kaufman]]
+-  [[ How to Get Rich by Felix Dennis]]
+-  [[The Art of Profitability by Adrian Slywotzky]]
+-  [[Peak Secrets from the New Science of Expertise by Anders Ericsson]]
+-  [[The Passionate Programmer by Chad Fowler]]
+-  [[Self Reliance by Ralph Waldo Emerson]]
 
 ### Investing
 - [[The Little Book that Beats the Market]]
@@ -32,3 +37,10 @@
 - [[The Intelligent Investor]]
 - [[The Essays of Warren Buffett]]
 - [[Security Analysis]]
+
+### Technical books
+- [[You dont know JS series by Kyle Simpson]]
+- [[Designing Data Intensive Applications by Martin Kleppmann]]
+- [[Database Desing For Mere Mortals by Micheal James ]]
+- [[Data Science From First Principles by Joel Grus]]
+- [[Learning SQL by Alan Beaulieu]]
