@@ -28,6 +28,7 @@
 -  [[Peak Secrets from the New Science of Expertise by Anders Ericsson]]
 -  [[The Passionate Programmer by Chad Fowler]]
 -  [[Self Reliance by Ralph Waldo Emerson]]
+-  [[Never Split The Difference by Chris Voss]]
 
 ### Investing
 - [[The Little Book that Beats the Market]]
