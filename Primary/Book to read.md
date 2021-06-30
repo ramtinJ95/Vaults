@@ -29,7 +29,6 @@
 -  [[The Passionate Programmer by Chad Fowler]]
 -  [[Self Reliance by Ralph Waldo Emerson]]
 -  [[Never Split The Difference by Chris Voss]]
--  [[It Takes What It Takes by Trevor Moawad]] **currently reading**
 
 ### Investing
 - [[The Little Book that Beats the Market]]
