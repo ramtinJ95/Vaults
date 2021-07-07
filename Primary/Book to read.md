@@ -41,7 +41,7 @@
 
 ### Technical books
 - [[You dont know JS series by Kyle Simpson]]
-- [[Designing Data Intensive Applications by Martin Kleppmann]]
+- [[Designing Data Intensive Applications by Martin Kleppmann]] **currently reading**
 - [[Database Desing For Mere Mortals by Micheal James ]]
 - [[Data Science From First Principles by Joel Grus]]
 - [[Learning SQL by Alan Beaulieu]]
