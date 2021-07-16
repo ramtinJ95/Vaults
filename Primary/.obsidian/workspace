@@ -9,8 +9,19 @@
         "state": {
           "type": "markdown",
           "state": {
-            "file": "Book to read.md",
+            "file": "The unreasonable effectiveness of doing something small everyday.md",
             "mode": "source"
+          }
+        }
+      },
+      {
+        "id": "b11b63134cf7bb5b",
+        "type": "leaf",
+        "state": {
+          "type": "markdown",
+          "state": {
+            "file": "The unreasonable effectiveness of doing something small everyday.md",
+            "mode": "preview"
           }
         }
       }
@@ -68,7 +79,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Book to read.md",
+                "file": "The unreasonable effectiveness of doing something small everyday.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -99,15 +110,15 @@
   },
   "active": "caea3e033a1aca67",
   "lastOpenFiles": [
-    "Book to read.md",
-    "Books I have read.md",
-    "000 Index.md",
+    "The unreasonable effectiveness of doing something small everyday.md",
+    "Using Spaced Revision Systems.md",
+    "SRS For Reading Papers and Technical Literature.md",
+    "SRS For Learning a New API.md",
+    "Typescript basics.md",
+    "How to take smart notes by Sönke Ahrens.md",
     "Markdown cheat sheet.md",
-    "Anki.md",
-    "010 Productivity.md",
-    "020 Family Life.md",
-    "Business Ideas.md",
-    "060 Business.md",
-    "070 Content Creation.md"
+    "Untitled.md",
+    "Book to read.md",
+    "Books I have read.md"
   ]
 }
