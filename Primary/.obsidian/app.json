@@ -1,0 +1,28 @@
+{
+  "spellcheck": true,
+  "alwaysUpdateLinks": true,
+  "enabledPlugins": [],
+  "spellcheckDictionary": [
+    "curation",
+    "Javascript",
+    "initializations",
+    "Markovian",
+    "DrillDown",
+    "Feynmans",
+    "zettelkasten",
+    "Zettelkasten",
+    "completionism",
+    "dont",
+    "Scenius",
+    "findable",
+    "inflammotary",
+    "hyperglycemic"
+  ],
+  "promptDelete": false,
+  "pdfExportSettings": {
+    "pageSize": "A4",
+    "landscape": false,
+    "margin": "0",
+    "downscalePercent": 100
+  }
+}

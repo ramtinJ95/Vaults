@@ -4,26 +4,28 @@
     "type": "split",
     "children": [
       {
-        "id": "caea3e033a1aca67",
+        "id": "05502db3ce6ff1aa",
         "type": "leaf",
         "state": {
           "type": "markdown",
           "state": {
-            "file": "The unreasonable effectiveness of doing something small everyday.md",
+            "file": "Fasting & Time restricted eating.md",
             "mode": "source"
           }
-        }
+        },
+        "group": "61ec49dfbb4c5016"
       },
       {
-        "id": "b11b63134cf7bb5b",
+        "id": "99c959b4bed4295e",
         "type": "leaf",
         "state": {
           "type": "markdown",
           "state": {
-            "file": "The unreasonable effectiveness of doing something small everyday.md",
+            "file": "Fasting & Time restricted eating.md",
             "mode": "preview"
           }
-        }
+        },
+        "group": "61ec49dfbb4c5016"
       }
     ],
     "direction": "vertical"
@@ -63,7 +65,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 332.0036334991455
+    "width": 241.0107650756836
   },
   "right": {
     "id": "3e1c32f429061b12",
@@ -79,7 +81,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "The unreasonable effectiveness of doing something small everyday.md",
+                "file": "Fasting & Time restricted eating.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -108,17 +110,17 @@
     "width": 300,
     "collapsed": true
   },
-  "active": "caea3e033a1aca67",
+  "active": "05502db3ce6ff1aa",
   "lastOpenFiles": [
-    "The unreasonable effectiveness of doing something small everyday.md",
-    "Using Spaced Revision Systems.md",
-    "SRS For Reading Papers and Technical Literature.md",
+    "Fasting & Time restricted eating.md",
+    "040 Science.md",
     "SRS For Learning a New API.md",
-    "Typescript basics.md",
-    "How to take smart notes by Sönke Ahrens.md",
-    "Markdown cheat sheet.md",
-    "Untitled.md",
-    "Book to read.md",
-    "Books I have read.md"
+    "000 Index.md",
+    "templates/Reference Note.md",
+    "templates/Book Summary.md",
+    "060 Business.md",
+    "050 Machine Learning.md",
+    "030 Software Development.md",
+    "020 Family Life.md"
   ]
 }
