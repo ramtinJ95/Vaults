@@ -9,7 +9,7 @@
         "state": {
           "type": "markdown",
           "state": {
-            "file": "DDIA-chapter-1.md",
+            "file": "DDIA-chapter-2.md",
             "mode": "source"
           }
         }
@@ -79,7 +79,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "DDIA-chapter-1.md",
+                "file": "DDIA-chapter-2.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -110,15 +110,15 @@
   },
   "active": "0ace9c700e9616ba",
   "lastOpenFiles": [
+    "DDIA-chapter-2.md",
+    "030 Software Development.md",
     "DDIA-chapter-1.md",
     "Designing Data Intensive Applications by Martin Kleppmann.md",
-    "030 Software Development.md",
     "chapter 3 Hormones some definitions.md",
     "Neuro Answers - Memory.md",
     "Neuro Answers - Cerebellum.md",
     "Neuro Answers - Basal ganglia.md",
     "Neuro Answers -  Experiment.md",
-    "Neuro Answers - Spatial navigation.md",
-    "Neuro Answers - Synaptic platicity.md"
+    "Neuro Answers - Spatial navigation.md"
   ]
 }

@@ -17,7 +17,15 @@
     "findable",
     "inflammotary",
     "hyperglycemic",
-    "Colestrol"
+    "Colestrol",
+    "latencies",
+    "Operability",
+    "devs",
+    "dev",
+    "Evolvability",
+    "backend",
+    "algos",
+    "HdrHistogram"
   ],
   "promptDelete": false,
   "pdfExportSettings": {
