@@ -4,28 +4,26 @@
     "type": "split",
     "children": [
       {
-        "id": "05502db3ce6ff1aa",
+        "id": "0ace9c700e9616ba",
         "type": "leaf",
         "state": {
           "type": "markdown",
           "state": {
-            "file": "chapter 4 Vertebrate Protein and Peptide Hormones.md",
+            "file": "DDIA-chapter-1.md",
             "mode": "source"
           }
-        },
-        "group": "61ec49dfbb4c5016"
+        }
       },
       {
-        "id": "99c959b4bed4295e",
+        "id": "7a58b5cce9ead1ae",
         "type": "leaf",
         "state": {
           "type": "markdown",
           "state": {
-            "file": "chapter 4 Vertebrate Protein and Peptide Hormones.md",
+            "file": "DDIA-chapter-1.md",
             "mode": "preview"
           }
-        },
-        "group": "61ec49dfbb4c5016"
+        }
       }
     ],
     "direction": "vertical"
@@ -81,7 +79,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "chapter 4 Vertebrate Protein and Peptide Hormones.md",
+                "file": "DDIA-chapter-1.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -110,17 +108,17 @@
     "width": 300,
     "collapsed": true
   },
-  "active": "05502db3ce6ff1aa",
+  "active": "0ace9c700e9616ba",
   "lastOpenFiles": [
-    "chapter 4 Vertebrate Protein and Peptide Hormones.md",
-    "Hormones and the Endocrine System.md",
+    "DDIA-chapter-1.md",
+    "Designing Data Intensive Applications by Martin Kleppmann.md",
+    "030 Software Development.md",
     "chapter 3 Hormones some definitions.md",
-    "040 Science.md",
-    "Show your work by Austin Kleon.md",
-    "Book reviews.md",
-    "Fasting & Time restricted eating.md",
-    "SRS For Learning a New API.md",
-    "000 Index.md",
-    "templates/Reference Note.md"
+    "Neuro Answers - Memory.md",
+    "Neuro Answers - Cerebellum.md",
+    "Neuro Answers - Basal ganglia.md",
+    "Neuro Answers -  Experiment.md",
+    "Neuro Answers - Spatial navigation.md",
+    "Neuro Answers - Synaptic platicity.md"
   ]
 }

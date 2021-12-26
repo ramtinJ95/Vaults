@@ -1,1 +1,0 @@
-1) All the answers of the questions that have come up thus far regarding basal ganglia can be found in the youtube video. 
