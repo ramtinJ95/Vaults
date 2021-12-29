@@ -9,7 +9,7 @@
         "state": {
           "type": "markdown",
           "state": {
-            "file": "The Biology of Slowing & Reversing Aging.md",
+            "file": "DDIA-chapter-2.md",
             "mode": "source",
             "source": false
           }
@@ -69,7 +69,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "The Biology of Slowing & Reversing Aging.md",
+                "file": "DDIA-chapter-2.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -100,15 +100,15 @@
   },
   "active": "0ace9c700e9616ba",
   "lastOpenFiles": [
+    "DDIA-chapter-2.md",
+    "Designing Data Intensive Applications by Martin Kleppmann.md",
+    "030 Software Development.md",
     "The Biology of Slowing & Reversing Aging.md",
     "Fasting & Time restricted eating.md",
     "090 TODO.md",
     "Huberman-podcast.md",
     "040 Science.md",
-    "030 Software Development.md",
     "050 Machine Learning.md",
-    "Health & Fitness.md",
-    "Diet.md",
-    "DDIA-chapter-2.md"
+    "Health & Fitness.md"
   ]
 }

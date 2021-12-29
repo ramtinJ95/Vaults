@@ -27,7 +27,7 @@ Red wine molecule resveratrol. David takes 1000mg a day. has to be gray or white
 Metformin interesting drug that can extend life. Do no take this on days that one is going to work out. This drug works on the mTOR pathway and ampk pathway. 
 Take Berberine on days where one is going to overeat such as thanksgiving etc
 
-korsitin trace amounts in apple and oninons, it activates sertuins. It helps in killing sinesin cells (zombie cells that are just there and do damage)
+korsitin trace amounts in apple and oninons, it activates sertuins. It helps in killing senescent cells (zombie cells that are just there and do damage)
 
 Metabolic winter hypothesis. 
 
