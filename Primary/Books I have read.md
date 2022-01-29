@@ -6,6 +6,8 @@
  - [[Atomic Habits by James Clear]] 2021-05-02
  - [[The Psychology of Money by morgan housel]] 2021-05-05
  - [[Solving the Procrastination Puzzle_ A Concise Guide to Strategies for Change by Timothy A. Pychyl]] 2022-01-08
+ - [[Dune first book]] 2022-01-18
+ - [[Talking to my daughter about the economy by yanis varoufakis]] 2022-01-29
 
 
 ---
