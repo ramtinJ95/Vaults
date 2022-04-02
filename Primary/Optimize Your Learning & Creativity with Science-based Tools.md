@@ -36,6 +36,8 @@ Evening meal carb rich and easy to digest protein.
 
 Small blip of anxiety during the evening is normal and a hardwired burst of energy comes 45-60min before sleep. 
 
+There is a mechanism in the brain where if we take a 10-20 sec break once we have been doing something new intensly say for example solving some math problems or trying to learn some new motor skill, in that small break the brain will repeat what we have just done 20 times without us actually doing anything because the circuits in the brain where already firing and there is some kind of inertia to these firing patterns. Also after some time of intense learning it is very good to take a 20 min rest where we do deep non sleep rest since this will again relax the brain and make use of the neuroplasticity that is going on due to the effort that was exerted during the doing of whatever skill it was that we where doing. 
+
 
 
 ### Source

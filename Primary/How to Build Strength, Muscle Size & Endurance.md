@@ -168,4 +168,4 @@ https://www.youtube.com/watch?v=gMRph_BvHB4&ab_channel=AndrewHuberman
 ---
 Status: #🏛  
 tags: [[040 Science]] - [[Neuroscience]] - [[Huberman-podcast]]
-date:2021-04-22
+date:2022-04-02
