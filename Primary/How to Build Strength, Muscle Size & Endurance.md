@@ -163,7 +163,7 @@ For example, Breaths strategies:
 
 
 ### Source
-https://www.youtube.com/watch?v=gMRph_BvHB4&ab_channel=AndrewHuberman
+https://www.youtube.com/watch?v=IAnhFUUCq6c&ab_channel=AndrewHuberman
 
 ---
 Status: #🏛  
