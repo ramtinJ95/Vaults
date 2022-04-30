@@ -8,6 +8,8 @@
  - [[Solving the Procrastination Puzzle_ A Concise Guide to Strategies for Change by Timothy A. Pychyl]] 2022-01-08
  - [[Dune first book]] 2022-01-18
  - [[Talking to my daughter about the economy by yanis varoufakis]] 2022-01-29
+ - [[Dune second book]] 2022-02-10
+ - [[Data science without makeup by Mikhail Zhilkin]] 2022-04-30
 
 
 ---
