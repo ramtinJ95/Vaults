@@ -11,6 +11,7 @@
  - [[Dune second book]] 2022-02-10
  - [[Data science without makeup by Mikhail Zhilkin]] 2022-04-30
  - [[The Nature of Software Development: Keep It Simple, Make It Valuable, Build It Piece by Piece by Ron Jefferes]] 2022-05-07
+ - [[Designing Data Intensive Applications by Martin Kleppmann]] 2022-06-27
 
 
 ---
