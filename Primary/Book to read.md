@@ -42,4 +42,6 @@
 - [[Designing Data Intensive Applications by Martin Kleppmann]]
 - [[Database Desing For Mere Mortals by Micheal James ]]
 - [[Data Science From First Principles by Joel Grus]]
-- [[Learning SQL by Alan Beaulieu]] **currently reading**
+- [[Learning SQL by Alan Beaulieu]]
+- [[Effective Python]]
+- [[Evolutionary architecture]] **Currently reading** 
