@@ -44,4 +44,6 @@
 - [[Data Science From First Principles by Joel Grus]]
 - [[Learning SQL by Alan Beaulieu]]
 - [[Effective Python]]
-- [[Evolutionary architecture]] **Currently reading** 
+- [[Evolutionary architecture]] 
+- [[Bayesian statistics the fun way]]**Currently reading** 
+- [[Data mesh]] 

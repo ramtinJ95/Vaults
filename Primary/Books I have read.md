@@ -12,6 +12,8 @@
  - [[Data science without makeup by Mikhail Zhilkin]] 2022-04-30
  - [[The Nature of Software Development: Keep It Simple, Make It Valuable, Build It Piece by Piece by Ron Jefferes]] 2022-05-07
  - [[Designing Data Intensive Applications by Martin Kleppmann]] 2022-06-27
+ -  [[Evolutionary architecture]] 2022-07-16
+ - [[The pragmatic programmer]] 2022-08-18
 
 
 ---
