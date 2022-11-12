@@ -1,4 +1,4 @@
- Endometriosis: only the epithelium of the uterus should react to estrogens by growing in order to allow nidation of the trophoblast. When cells outside the uterus, such as in the peritoneum and in other organs of a woman, start to react to the periodic estrogen signals by growing and ablation, the woman feels great pain and experiences internal bleeding.
+  Endometriosis: only the epithelium of the uterus should react to estrogens by growing in order to allow nidation of the trophoblast. When cells outside the uterus, such as in the peritoneum and in other organs of a woman, start to react to the periodic estrogen signals by growing and ablation, the woman feels great pain and experiences internal bleeding.
  
  Exocrine release, as opposed to endocrine secretion into the blood, characterizes gland production—for example, release into the oral cavity, into the gut lumen, or across the skin. Furthermore, odorant release, territory marking, and pheromone secretion are exocrine processes as well.
  ### Neurontransmitters

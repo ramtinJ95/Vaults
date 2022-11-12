@@ -1,5 +1,6 @@
 {
   "cssTheme": "Obsdn-Dark-Rmx",
   "theme": "obsidian",
-  "baseFontSize": 16
+  "baseFontSize": 16,
+  "accentColor": ""
 }

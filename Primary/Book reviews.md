@@ -1,7 +1,6 @@
 # Book reviews
 - [[How to take smart notes by Sönke Ahrens]]
 - [[Show your work by Austin Kleon]]
-- 
 
 
 ---

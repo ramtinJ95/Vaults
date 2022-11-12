@@ -14,6 +14,8 @@
  - [[Designing Data Intensive Applications by Martin Kleppmann]] 2022-06-27
  -  [[Evolutionary architecture]] 2022-07-16
  - [[The pragmatic programmer]] 2022-08-18
+ - [[Fundamentals of data engineering]] 2022-10-26
+ - 
 
 
 ---
