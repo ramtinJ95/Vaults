@@ -18,8 +18,21 @@
                 "source": false
               }
             }
+          },
+          {
+            "id": "851b260ae89574b8",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Meaning Crisis Ep 4.md",
+                "mode": "source",
+                "source": false
+              }
+            }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -79,7 +92,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Meaning Crisis Ep 3.md",
+                "file": "Meaning Crisis Ep 4.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -108,8 +121,9 @@
     "width": 300,
     "collapsed": true
   },
-  "active": "c924700122c03c34",
+  "active": "851b260ae89574b8",
   "lastOpenFiles": [
+    "Meaning Crisis Ep 3.md",
     "Meaning Crisis Ep 2.md",
     "Meaning Crisis Series.md",
     "Meaning Crisis Ep 1.md",
@@ -118,7 +132,6 @@
     "discounted infinite time horizon MDP's.md",
     "DDIA-chapter-1.md",
     "DDIA-chapter-2.md",
-    "Designing Data Intensive Applications by Martin Kleppmann.md",
-    "080 Psychology and philosophy.md"
+    "Designing Data Intensive Applications by Martin Kleppmann.md"
   ]
 }

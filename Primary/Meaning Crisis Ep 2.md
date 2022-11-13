@@ -12,6 +12,7 @@ Second order thinking is the act of incorporating a psycho technology to improve
 
 Now we have people being trained in symbolic and abstract thinking through dealing with money at the same time as there is an increase in second order thinking through the spread of literacy, now there are power ful psycho mechanisms ready for exaptation( evolutionary term for where something that was evolved starts being used for other things than it was originally evolved for, think about our tongue. It was evolved as a poison detector but is not mostly used for speaking). The result here is that people start to see the errors in the way they are thinking. They dont see chaos and war and suffering as the natural order of things but rather they start to see that they are responsible for their actions and that those actions are reflected in how their environment is. 
 
+The Axial age comes after the collapse of the bronze age, i.e the end of the age of ancient egypt etc. A few hundred years after this collapse we as humans again had a bottleneck event like the one with the ice age where we where forced to develop new pshyco technologies to cope with the new environment etc. Worth noting is that the collapse of the bronze age is the closes humanity have been to total collapse of civilization and the apocolypse as its depicted in many movies today.
 
 
 ---
