@@ -8,43 +8,7 @@
         "type": "tabs",
         "children": [
           {
-            "id": "c924700122c03c34",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Meaning Crisis Ep 3.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "851b260ae89574b8",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Meaning Crisis Ep 4.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
             "id": "22a68ade21818ace",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "000 Index.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "6260c8dd6b39d9da",
             "type": "leaf",
             "state": {
               "type": "kanban",
@@ -53,8 +17,25 @@
               }
             }
           }
-        ],
-        "currentTab": 3
+        ]
+      },
+      {
+        "id": "ab9bb2c0f5a0495e",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "00bcfb4e8dca8577",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Meaning crisis Ep 5.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          }
+        ]
       }
     ],
     "direction": "vertical"
@@ -112,7 +93,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Personal Project Kanban Board.md",
+                "file": "Meaning crisis Ep 5.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -141,14 +122,14 @@
     "width": 300,
     "collapsed": true
   },
-  "active": "6260c8dd6b39d9da",
+  "active": "00bcfb4e8dca8577",
   "lastOpenFiles": [
-    "Go through and implement Neural Networks  Zero to Hero, From Andrej Karapathy.md",
     "Personal Project Kanban Board.md",
+    "Meaning Crisis Ep 4.md",
+    "000 Index.md",
+    "Go through and implement Neural Networks  Zero to Hero, From Andrej Karapathy.md",
     "The last algo course you need frontend master.md",
     "Node.js course on frontendmasters.md",
-    "000 Index.md",
-    "Meaning Crisis Ep 4.md",
     "Meaning Crisis Ep 3.md",
     "Meaning Crisis Ep 2.md",
     "Meaning Crisis Series.md",
