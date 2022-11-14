@@ -30,9 +30,31 @@
                 "source": false
               }
             }
+          },
+          {
+            "id": "22a68ade21818ace",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "000 Index.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "6260c8dd6b39d9da",
+            "type": "leaf",
+            "state": {
+              "type": "kanban",
+              "state": {
+                "file": "Personal Project Kanban Board.md"
+              }
+            }
           }
         ],
-        "currentTab": 1
+        "currentTab": 3
       }
     ],
     "direction": "vertical"
@@ -70,13 +92,11 @@
               }
             }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "horizontal",
-    "width": 257.50271224975586,
-    "collapsed": true
+    "width": 257.50271224975586
   },
   "right": {
     "id": "3e1c32f429061b12",
@@ -92,7 +112,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Meaning Crisis Ep 4.md",
+                "file": "Personal Project Kanban Board.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -121,17 +141,17 @@
     "width": 300,
     "collapsed": true
   },
-  "active": "851b260ae89574b8",
+  "active": "6260c8dd6b39d9da",
   "lastOpenFiles": [
+    "000 Index.md",
+    "Personal Project Kanban Board.md",
+    "Meaning Crisis Ep 4.md",
     "Meaning Crisis Ep 3.md",
     "Meaning Crisis Ep 2.md",
     "Meaning Crisis Series.md",
     "Meaning Crisis Ep 1.md",
-    "000 Index.md",
     "Docker.md",
     "discounted infinite time horizon MDP's.md",
-    "DDIA-chapter-1.md",
-    "DDIA-chapter-2.md",
-    "Designing Data Intensive Applications by Martin Kleppmann.md"
+    "DDIA-chapter-1.md"
   ]
 }

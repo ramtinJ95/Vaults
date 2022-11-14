@@ -30,6 +30,9 @@ tags:
 	
 
 
+## Personal project tracking
+[[Personal Project Kanban Board]]
+
 ## Areas of Focus
 [[Javascript MOC]]
 [[050 Machine Learning]]
