@@ -19,18 +19,18 @@ kanban-plugin: basic
 
 ## Sprint task (2 weeks)
 
-- [ ] [[Meaning crisis Ep 5]]
-- [ ] Meaning crisis Ep 6
 - [ ] 7 SQL Leetcode questions
 - [ ] 7 Python Leetcode questions
 
 
 ## Doing
 
+- [ ] [[Meaning crisis Ep 6]]
 
 
 ## Done
 
+- [ ] [[Meaning Crisis Ep 5]]
 - [ ] [[Meaning Crisis Ep 4]] ^wn0me3
 
 

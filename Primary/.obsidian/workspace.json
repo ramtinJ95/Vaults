@@ -4,32 +4,16 @@
     "type": "split",
     "children": [
       {
-        "id": "1e587d24466a8720",
+        "id": "5956aae695f9f3a0",
         "type": "tabs",
         "children": [
           {
-            "id": "22a68ade21818ace",
-            "type": "leaf",
-            "state": {
-              "type": "kanban",
-              "state": {
-                "file": "Personal Project Kanban Board.md"
-              }
-            }
-          }
-        ]
-      },
-      {
-        "id": "ab9bb2c0f5a0495e",
-        "type": "tabs",
-        "children": [
-          {
-            "id": "00bcfb4e8dca8577",
+            "id": "d9a57c3647ceeff4",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Meaning crisis Ep 5.md",
+                "file": "Meaning crisis Ep 6.md",
                 "mode": "source",
                 "source": false
               }
@@ -77,7 +61,8 @@
       }
     ],
     "direction": "horizontal",
-    "width": 257.50271224975586
+    "width": 257.50271224975586,
+    "collapsed": true
   },
   "right": {
     "id": "3e1c32f429061b12",
@@ -93,7 +78,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Meaning crisis Ep 5.md",
+                "file": "Meaning crisis Ep 6.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -122,17 +107,17 @@
     "width": 300,
     "collapsed": true
   },
-  "active": "00bcfb4e8dca8577",
+  "active": "d9a57c3647ceeff4",
   "lastOpenFiles": [
     "Personal Project Kanban Board.md",
+    "Meaning Crisis Ep 5.md",
+    "Untitled.md",
     "Meaning Crisis Ep 4.md",
     "000 Index.md",
     "Go through and implement Neural Networks  Zero to Hero, From Andrej Karapathy.md",
     "The last algo course you need frontend master.md",
     "Node.js course on frontendmasters.md",
     "Meaning Crisis Ep 3.md",
-    "Meaning Crisis Ep 2.md",
-    "Meaning Crisis Series.md",
-    "Meaning Crisis Ep 1.md"
+    "Meaning Crisis Ep 2.md"
   ]
 }
