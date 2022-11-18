@@ -11,11 +11,9 @@
             "id": "d9a57c3647ceeff4",
             "type": "leaf",
             "state": {
-              "type": "markdown",
+              "type": "kanban",
               "state": {
-                "file": "Meaning crisis Ep 6.md",
-                "mode": "source",
-                "source": false
+                "file": "Personal Project Kanban Board.md"
               }
             }
           }
@@ -78,7 +76,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Meaning crisis Ep 6.md",
+                "file": "Personal Project Kanban Board.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -107,17 +105,17 @@
     "width": 300,
     "collapsed": true
   },
-  "active": "d9a57c3647ceeff4",
+  "active": "7d4232e6fbd5a891",
   "lastOpenFiles": [
+    "7 SQL Leetcode questions.md",
     "Personal Project Kanban Board.md",
+    "Show your work by Austin Kleon.md",
+    "So good they cant ignore you by cal newport.md",
+    "Screenshot 2021-04-21 at 16.35.38.png",
+    "Screenshot 2021-04-21 at 16.30.58.png",
+    "Screenshot 2021-03-29 at 23.36.44.png",
+    "Meaning crisis Ep 6.md",
     "Meaning Crisis Ep 5.md",
-    "Untitled.md",
-    "Meaning Crisis Ep 4.md",
-    "000 Index.md",
-    "Go through and implement Neural Networks  Zero to Hero, From Andrej Karapathy.md",
-    "The last algo course you need frontend master.md",
-    "Node.js course on frontendmasters.md",
-    "Meaning Crisis Ep 3.md",
-    "Meaning Crisis Ep 2.md"
+    "Untitled.md"
   ]
 }
