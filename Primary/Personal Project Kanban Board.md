@@ -25,11 +25,11 @@ kanban-plugin: basic
 
 ## Doing
 
-- [ ] [[Meaning Crisis Ep 7]]
 
 
 ## Done
 
+- [ ] [[Meaning Crisis Ep 7]]
 - [ ] [[Meaning crisis Ep 6]]
 - [ ] [[Meaning Crisis Ep 5]]
 - [ ] [[Meaning Crisis Ep 4]] ^wn0me3

@@ -4,11 +4,11 @@
     "type": "split",
     "children": [
       {
-        "id": "9d6e24c04c00225f",
+        "id": "41fd9e9e4a0d99f7",
         "type": "tabs",
         "children": [
           {
-            "id": "3a086244fd638c95",
+            "id": "c23a2c27a3331dff",
             "type": "leaf",
             "state": {
               "type": "markdown",
@@ -107,7 +107,7 @@
     "width": 300,
     "collapsed": true
   },
-  "active": "3a086244fd638c95",
+  "active": "c23a2c27a3331dff",
   "lastOpenFiles": [
     "Personal Project Kanban Board.md",
     "Meaning Crisis Ep 7.md",
