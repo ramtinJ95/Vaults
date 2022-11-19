@@ -25,6 +25,7 @@ kanban-plugin: basic
 
 ## Doing
 
+- [ ] [[Meaning Crisis Ep 7]]
 
 
 ## Done

@@ -4,16 +4,18 @@
     "type": "split",
     "children": [
       {
-        "id": "5956aae695f9f3a0",
+        "id": "9d6e24c04c00225f",
         "type": "tabs",
         "children": [
           {
-            "id": "d9a57c3647ceeff4",
+            "id": "3a086244fd638c95",
             "type": "leaf",
             "state": {
-              "type": "kanban",
+              "type": "markdown",
               "state": {
-                "file": "Personal Project Kanban Board.md"
+                "file": "Meaning Crisis Ep 7.md",
+                "mode": "source",
+                "source": false
               }
             }
           }
@@ -76,7 +78,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Personal Project Kanban Board.md",
+                "file": "Meaning Crisis Ep 7.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -105,17 +107,17 @@
     "width": 300,
     "collapsed": true
   },
-  "active": "7d4232e6fbd5a891",
+  "active": "3a086244fd638c95",
   "lastOpenFiles": [
-    "7 SQL Leetcode questions.md",
     "Personal Project Kanban Board.md",
+    "Meaning Crisis Ep 7.md",
+    "7 SQL Leetcode questions.md",
     "Show your work by Austin Kleon.md",
     "So good they cant ignore you by cal newport.md",
     "Screenshot 2021-04-21 at 16.35.38.png",
     "Screenshot 2021-04-21 at 16.30.58.png",
     "Screenshot 2021-03-29 at 23.36.44.png",
     "Meaning crisis Ep 6.md",
-    "Meaning Crisis Ep 5.md",
-    "Untitled.md"
+    "Meaning Crisis Ep 5.md"
   ]
 }
