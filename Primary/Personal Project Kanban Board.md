@@ -21,6 +21,9 @@ kanban-plugin: basic
 
 - [ ] [[7 SQL Leetcode questions]]
 - [ ] 7 Python Leetcode questions
+- [ ] Meaning Crisis Ep 8
+- [ ] Meaning Crisis Ep 9
+- [ ] Meaning Crisis Ep 10
 
 
 ## Doing
