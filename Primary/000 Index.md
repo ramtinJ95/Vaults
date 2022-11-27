@@ -17,14 +17,13 @@ So the idea is that these references are representing my major focus areas in li
 
 Futhermore to build upon the reference system all references I will tag with #🏛  will also have a link to these index areas of focus if possible so that i can find everything i have read related to for example Machine learning etc. 
 
-
 I will be using tags for status and type of note for now, I think that will be the most useful system for it, maybe even use emojis as tags. The "tags" will be links so that MOC's can emerge and this will give structures over time. The conventional idea for a tag will be used for status
 
 tags: 
 	- #🌳 this is the evergreen notes, this means that notes with this symbol are fleshed out and will always give value when i read them even years after they are written
 	- #🗺 MOC for notes that are maps of content
 	- #🌱 New ideas and notes that are not done yet or need more fleshing out but they are notes with refernces and they can be somewhat understood later on, and the general content is written as if someone else should understand it
-	- #📖 Literature notes, these will be notes from books I read and the idea is that i will process these into new ideas and eventually make them into evergreen notes. 
+	- #📖 Literature notes, these will be notes from books I read or notes while listening to video lectures such as huberman or the meaning crisis series. The idea is that i will process these into new ideas and eventually make them into evergreen notes. 
 	- #🏛 wiki notes/reference bibliography. Notes with this tag are just straight facts or general concepts like calculus that I will use as reference for my permanent/evergreen notes later on.
 	- #📬 inbox. Fleeting notes will have this status and this means that these notes are just thoughts/ideas I find interesting that i have had during the day and these have to be fleshed out or thrown away at the end of the day.
 	

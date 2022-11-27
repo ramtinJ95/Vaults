@@ -8,12 +8,14 @@
         "type": "tabs",
         "children": [
           {
-            "id": "6f5f584f76f69dbe",
+            "id": "f3ce2d2b0fe3284e",
             "type": "leaf",
             "state": {
-              "type": "kanban",
+              "type": "markdown",
               "state": {
-                "file": "Personal Project Kanban Board.md"
+                "file": "The Science of Eating for Health, Fat Loss & Lean Muscle.md",
+                "mode": "source",
+                "source": false
               }
             }
           }
@@ -46,7 +48,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "",
+                "query": "huberman",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -55,7 +57,8 @@
               }
             }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "horizontal",
@@ -76,7 +79,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Personal Project Kanban Board.md",
+                "file": "The Science of Eating for Health, Fat Loss & Lean Muscle.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -105,17 +108,17 @@
     "width": 300,
     "collapsed": true
   },
-  "active": "6f5f584f76f69dbe",
+  "active": "f3ce2d2b0fe3284e",
   "lastOpenFiles": [
+    "Change your brain.md",
     "000 Index.md",
-    "Meaning Crisis Ep 7.md",
+    "How to Build Strength, Muscle Size & Endurance.md",
     "Personal Project Kanban Board.md",
+    "Meaning Crisis Ep 7.md",
     "7 SQL Leetcode questions.md",
     "Show your work by Austin Kleon.md",
     "So good they cant ignore you by cal newport.md",
     "Screenshot 2021-04-21 at 16.35.38.png",
-    "Screenshot 2021-04-21 at 16.30.58.png",
-    "Screenshot 2021-03-29 at 23.36.44.png",
-    "Meaning crisis Ep 6.md"
+    "Screenshot 2021-04-21 at 16.30.58.png"
   ]
 }
