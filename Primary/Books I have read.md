@@ -15,7 +15,8 @@
  -  [[Evolutionary architecture]] 2022-07-16
  - [[The pragmatic programmer]] 2022-08-18
  - [[Fundamentals of data engineering]] 2022-10-26
- - 
+ - [[Data mesh ]] 2022-12-14
+ - [[Kafka the definitive Guide]] 2023-01-14
 
 
 ---
