@@ -25,14 +25,26 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Kafka the definitive Guide.md",
+                "file": "Book to read.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "e3229558be8ba21f",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Redshift knowledge sharing.md",
                 "mode": "source",
                 "source": false
               }
             }
           }
         ],
-        "currentTab": 1
+        "currentTab": 2
       }
     ],
     "direction": "vertical"
@@ -74,7 +86,8 @@
       }
     ],
     "direction": "horizontal",
-    "width": 272.50271224975586
+    "width": 272.50271224975586,
+    "collapsed": true
   },
   "right": {
     "id": "3e1c32f429061b12",
@@ -90,7 +103,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Kafka the definitive Guide.md",
+                "file": "Redshift knowledge sharing.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -129,17 +142,17 @@
       "markdown-importer:Open format converter": false
     }
   },
-  "active": "fa7d02128d0603c4",
+  "active": "e3229558be8ba21f",
   "lastOpenFiles": [
+    "Book to read.md",
+    "Book reviews.md",
+    "Kafka the definitive Guide.md",
     "Books I have read.md",
     "Data mesh.md",
     "000 Index.md",
     "Meaning Crisis Ep 7.md",
     "Meaning crisis Ep 6.md",
     "Meaning Crisis Ep 2.md",
-    "Meaning Crisis Ep 1.md",
-    "Meaning Crisis Ep 5.md",
-    "Personal Project Kanban Board.md",
-    "chapter 4 Vertebrate Protein and Peptide Hormones.md"
+    "Meaning Crisis Ep 1.md"
   ]
 }
