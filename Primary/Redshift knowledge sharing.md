@@ -7,8 +7,9 @@
 + Query monitoris rules. 
 + concurrency scaling seems to be quite important. 
 + Materialized views, compute once query many times.
++ important that i explain why joining two tables which have the same dist key gives good performance. 
 
-https://www.youtube.com/watch?v=jRuE7tdZisU&ab_channel=AurobindoSaha really good. 
++ https://www.youtube.com/watch?v=jRuE7tdZisU&ab_channel=AurobindoSaha really good. 
 
 
 ### Solution to our problems that pop up in my head

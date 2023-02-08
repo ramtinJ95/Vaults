@@ -8,43 +8,18 @@
         "type": "tabs",
         "children": [
           {
-            "id": "58245ce3f5d2bbf8",
+            "id": "2b51bcfb91a6e292",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Books I have read.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "fa7d02128d0603c4",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Book to read.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "e3229558be8ba21f",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Redshift knowledge sharing.md",
+                "file": "Bitemporal Data Presentation.md",
                 "mode": "source",
                 "source": false
               }
             }
           }
-        ],
-        "currentTab": 2
+        ]
       }
     ],
     "direction": "vertical"
@@ -103,7 +78,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Redshift knowledge sharing.md",
+                "file": "Bitemporal Data Presentation.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -142,8 +117,9 @@
       "markdown-importer:Open format converter": false
     }
   },
-  "active": "e3229558be8ba21f",
+  "active": "2b51bcfb91a6e292",
   "lastOpenFiles": [
+    "Redshift knowledge sharing.md",
     "Book to read.md",
     "Book reviews.md",
     "Kafka the definitive Guide.md",
@@ -152,7 +128,6 @@
     "000 Index.md",
     "Meaning Crisis Ep 7.md",
     "Meaning crisis Ep 6.md",
-    "Meaning Crisis Ep 2.md",
-    "Meaning Crisis Ep 1.md"
+    "Meaning Crisis Ep 2.md"
   ]
 }
