@@ -1,4 +1,3 @@
-# So good they cant ignore you by cal newport
 
 ### The Book In 3 Sentences
 ## Summary and notes (this is for very good books that i really want to remember)

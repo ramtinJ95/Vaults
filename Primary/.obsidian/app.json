@@ -36,5 +36,6 @@
   },
   "legacyEditor": false,
   "livePreview": true,
-  "vimMode": true
+  "vimMode": true,
+  "showLineNumber": true
 }
